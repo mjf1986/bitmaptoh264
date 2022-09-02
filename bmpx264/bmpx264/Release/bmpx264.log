@@ -1,0 +1,11 @@
+﻿  bmpx264.cpp
+E:\work\其他下載\bmpx264\bmpx264\bmpx264.cpp(173,16): warning C4101: “mask”: 未引用的局部变量
+E:\work\其他下載\bmpx264\bmpx264\bmpx264.cpp(172,16): warning C4101: “Loop”: 未引用的局部变量
+E:\work\其他下載\bmpx264\bmpx264\bmpx264.cpp(321,28): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+E:\work\其他下載\bmpx264\bmpx264\bmpx264.cpp(322,29): warning C4244: “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+  正在生成代码
+  0 of 10 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bmpx264.vcxproj -> E:\work\其他下載\bmpx264\bmpx264\Release\bmpx264.exe
